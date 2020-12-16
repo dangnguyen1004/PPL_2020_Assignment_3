@@ -1,0 +1,11 @@
+
+        Function: main
+        Body:
+            f();
+        EndBody.
+        Function: f
+        Parameter: a
+        Body:
+            Return; 
+        EndBody.
+        

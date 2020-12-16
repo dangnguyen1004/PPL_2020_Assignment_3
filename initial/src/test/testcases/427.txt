@@ -1,0 +1,8 @@
+
+        Var: a = 2;
+            Function: main
+            Body:
+                If (a) Then
+                EndIf.
+            EndBody.
+        

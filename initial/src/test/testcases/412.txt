@@ -1,0 +1,7 @@
+
+                    Var: x[2][3], y, z[1][3];
+                    Function: main
+                    Body:
+                        x[1] = x[1 + foo("3",-9)] + 10;
+                    EndBody.
+                

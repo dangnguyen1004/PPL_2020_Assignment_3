@@ -1,0 +1,17 @@
+
+        Var: x[10];
+        Function: main
+        Parameter: flag
+        Body:
+            Var: s;
+            s = read();
+            For(flag = 0, flag < length(s), 1) Do
+                x[s] = x[s] + 1;
+            EndFor.
+        EndBody.
+        Function: length
+        Parameter: s
+        Body:
+            Return 100;
+        EndBody.
+        

@@ -1,0 +1,11 @@
+
+        Function: id
+        Parameter: b
+        Body: 
+            Var: f = 10;
+            b = ass[5] ;
+        EndBody.
+        Function: main
+        Body: 
+        EndBody.
+        

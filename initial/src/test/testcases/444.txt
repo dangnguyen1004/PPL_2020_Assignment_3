@@ -1,0 +1,10 @@
+
+        Function: id
+        Parameter: b
+        Body: 
+            a = 10 ;
+        EndBody.
+        Function: main
+        Body: 
+        EndBody.
+        

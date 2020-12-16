@@ -1,0 +1,10 @@
+
+        Function: b
+        Parameter: string_of_int
+        Body: 
+            Var: a ;
+        EndBody.
+        Function: main
+        Body: 
+        EndBody.
+        

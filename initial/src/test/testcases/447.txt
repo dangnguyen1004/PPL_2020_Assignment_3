@@ -1,0 +1,8 @@
+
+        Var: a, b;
+        Function: main
+        Parameter: x, y
+        Body:
+            reaD()[1][2][3] = 5;
+        EndBody.
+        

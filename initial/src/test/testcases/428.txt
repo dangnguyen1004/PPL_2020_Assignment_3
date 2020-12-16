@@ -1,0 +1,9 @@
+
+        Var: a = True;
+            Function: main
+            Body:
+                If (a && 5) Then
+                    a = False;
+                EndIf.
+            EndBody.
+        

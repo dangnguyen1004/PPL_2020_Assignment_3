@@ -1,0 +1,11 @@
+
+        Var: a = 1, b = 2, c = 3; 
+        Function: f
+        Body:
+        EndBody.
+        Function: main
+        Body:
+            f(1,2,3.0);
+        EndBody.
+        
+        
